@@ -4,6 +4,8 @@ Preview project in react + python flask :
 
 ![alt text](https://github.com/rim31/preview_react_vp_ml/blob/master/look_designer.gif)
 
+here : how i find 'boheme style' in more than 300 000 models, and the proximity with the other styles
+
 ## objective
 determine an outfit style, and create a custome clothe style
 
