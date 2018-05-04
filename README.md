@@ -1,5 +1,5 @@
 # preview_react_vp_ml
-Preview project in react + python flask :
+Preview project in react + python flask + machine learning :
 
 
 ![alt text](https://github.com/rim31/preview_react_vp_ml/blob/master/look_designer.gif)
